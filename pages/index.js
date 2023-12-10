@@ -1,5 +1,7 @@
 function Home() {
-  return <h1>Eai gatinha, vamos fazer uma saliência? 🥵</h1>;
+  return (
+    <h1>Esse site está em construção, logo mais você poderá usufruir dele.</h1>
+  );
 }
 
 export default Home;
