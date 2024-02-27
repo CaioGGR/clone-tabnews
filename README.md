@@ -3,7 +3,10 @@
 Esse é um repositório criado para prosseguimento dos estudos disponibilizados no curso.dev, criado pelo Felipe Deschamps
 
 Anotações:
-Ferramentas utilizadas: Node.js, React.js (com o renderizador DOM) e Next.js (Framework)
+Ferramentas utilizadas:
+Node.js, React.js (com o renderizador DOM) e Next.js (Framework)
+Test Runner: Jest
+Configurador de Código: Prettier e Editor Config
 
 - .nvmrc / nvm = node version manager & rc = run commands
 
